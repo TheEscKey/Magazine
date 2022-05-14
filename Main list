@@ -1,0 +1,29 @@
+<html>
+    <head>
+        <title>Магазин БТА</title>
+        </head>
+        <body>
+            <header>
+                <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJmwl1H2yCx_GWWqllvDqS_uY6W_OT4aceyQ&usqp=CAU" >
+                <a href="">Все по 15 ГРН!</a>
+                <p></p>
+                </header>
+                <main>
+                    <p>
+                    <a href="">Перейти к товарам</a></p>
+                    <p><br>Магазин: Все по 15 ГРН
+                    <br>Тут продаеться все по 15 гривен!<br>
+                    <br>Заходи не пожалеешь!<br>
+                    <br>Наши товары:</p>
+                    <img src="https://www.steakhome.ru/upload/iblock/dbc/dbc4a226547f750caeb2896678e96d59.png">
+                    <img src="https://hochu.ua/images/kuritsa-kuryatina.jpg">
+                    <img src="https://chudo-povar.com/images/zelenyj-goroshek-konservirovannyj-recept-s-foto.jpg">
+                    <img src="https://www.meteonova.ru/agro-articles/pictures/onion1.jpg">
+                    <img src="https://florium.ua/media/catalog/product/cache/2/file/9df78eab33525d08d6e5fb8d27136e95/b/u/burjak-chervona-kulja.jpg">
+                     <img src="https://cdn.lifehacker.ru/wp-content/uploads/2018/02/pineapple_1522185085-1280x640.jpg">
+                    </main>
+                    <footer> 
+                        <p></p>
+                        </footer>
+            </body>
+    </html>
