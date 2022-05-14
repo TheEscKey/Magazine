@@ -1,7 +1,8 @@
 <html>
     <head>
+    <link rel="stylesheet" type="text/css" href="Srart.css">
         <title>Магазин БТА</title>
-        </head>
+        <head>
         <body>
             <header>
                 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJmwl1H2yCx_GWWqllvDqS_uY6W_OT4aceyQ&usqp=CAU" >
